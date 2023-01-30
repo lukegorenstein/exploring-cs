@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html>
  <body>
-<h1>My first website</h1>
-   	<p>I'm going to talk about basektball</p>
+<h1>My first website.</h1>
+   	<p>I'm <b>going</b> to talk about <u>basektball</u>.</p>
  </body>
 </html>
